@@ -9,7 +9,8 @@ body{
     margin: 40px auto 0;
     padding: 50px;
     box-sizing: border-box;
-    background: url(img/paper-pattern.jpg) top left repeat;
+    /*background: url(img/paper-pattern.jpg) top left repeat;*/
+    background: white;
     box-shadow: 0 10px 15px -8px #000;
     border-radius: 5px;
     text-align: center;
@@ -20,7 +21,7 @@ body{
 h1 {
     margin: 0 0 20px;
     padding: 0 0 20px;
-    border-bottom: solit 1px #ddd;
+    border-bottom: solid 1px #ddd;
 
 }
 form {
